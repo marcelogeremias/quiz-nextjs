@@ -6,19 +6,32 @@
     "questions": [
       {
         "image": "",
-        "title": "",
-        "description": "",
+        "title": "Rock in Rio",
+        "description": "Em que ano aconteceu o primeiro Rock in Rio?",
         "answer": 2,
         "alternatives": [
-          "",
-          "",
-          "",
-          ""
+          "1980",
+          "1983",
+          "1985",
+          "1987"
+        ]
+      },
+      {
+        "image": "",
+        "title": "Live Aid",
+        "description": "Em que ano aconteceu o Live Aid?",
+        "answer": 2,
+        "alternatives": [
+          "1980",
+          "1983",
+          "1985",
+          "1987"
         ]
       }
     ],
     "external": [
-      ""
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+      "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
     ],
     "theme": {
       "colors": {
